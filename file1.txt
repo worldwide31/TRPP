@@ -1,2 +1,3 @@
 "Hello, world!" 
 "New feature added" 
+"Commit 1" 
